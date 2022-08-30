@@ -1,0 +1,20 @@
+body  {
+
+    background-image: url(https://media.istockphoto.com/photos/large-group-of-students-studying-on-a-class-in-the-classroom-picture-id1163483094?k=20&m=1163483094&s=170667a&w=0&h=NFCDK4ykDIb1C5VAt4DwilQrV3Kmg6C4meHy22SoL4M=);
+   }
+   
+     p {
+       margin-botton:0;
+       font-weight: bold;
+   }
+   
+   h1, p, option, div {
+   
+     text-align: center;
+     }
+   
+     div {
+      
+     background-color: skyblue;
+      width: 100%
+     }
